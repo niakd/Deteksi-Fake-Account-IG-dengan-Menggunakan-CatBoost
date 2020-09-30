@@ -1,0 +1,10 @@
+0	Label	
+1	Num	is_fake
+2	Num	user_biography_length
+3	Num	user_follower_count
+4	Num	user_following_count
+5	Num	user_has_profil_pic
+6	Categ	user_is_private
+7	Num	user_media_count
+8	Num	username_digit_count
+9	Num	username_length
